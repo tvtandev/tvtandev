@@ -71,7 +71,7 @@
 <!--   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
-  <a href="https://facebook.com/dangdeveloper" target="blank">
+  <a href="https://www.facebook.com/van.tan.925059" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hdangdev-facebook" />
   </a>
   <a href="https://www.youtube.com/c/godtv69" target="blank">
@@ -83,7 +83,7 @@
   <a href="https://instagram.com/theanishtar" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hdangdev-instagram" />
   </a>
-  <a href="mailto:dangtt135@gmail.com" target="top">
+  <a href="mailto:vantanzuka@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hdangdev-email" />
   </a>
 </div>
