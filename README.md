@@ -74,13 +74,13 @@
   <a href="https://www.facebook.com/van.tan.925059" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hdangdev-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/godtv69" target="blank">
+  <a href="https://www.youtube.com/@lifeatfptsoftware" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hdangdev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/tranhuudang" target="blank">
+  <a href="https://www.instagram.com/van.tan.925059/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hdangdev-linkedin" />
   </a>
-  <a href="https://instagram.com/theanishtar" target="blank">
+  <a href="https://www.instagram.com/van.tan.925059/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hdangdev-instagram" />
   </a>
   <a href="mailto:vantanzuka@gmail.com" target="top">
